@@ -21,7 +21,6 @@ Device ID : ""
 User 6
 Device ID : ""
 
-
 Glapps Driving Academy
 
 User 1
