@@ -1,8 +1,8 @@
 #########LIFETIME##########
 a2f686b471196955:31/12/2050 - UnknownMods
 2256e9bb7acf95f1:31/12/2050 - Larrie James De Gracia
-ec8b29208d72aec3:31/12/2050
-ccc0c743f80aa925:31/12/2050
+ec8b29208d72aec3:31/12/2050 - Chris Naitsirch
+ccc0c743f80aa925:31/12/2050 - Martin Alcaras Martin
 897b484baecdee28:31/12/2050
 90ec0f3e265b826e:31/12/2050 - 
 fe14e4b4f226eb4e:31/12/2050 - Ren 
@@ -12,14 +12,14 @@ fe14e4b4f226eb4e:31/12/2050 - Ren
 ###########TRIAL###########
 810199da41d0149f:29/11/2025 - Kenrique Jamir Alcaraz
 45e710c47603539a:29/11/2025 - Apol Yeah Menor
-5529e32e9a204e85:29/11/2025
+5529e32e9a204e85:29/11/2025 - Tristan Ni Khai
 a84d3a9f46b773cc:29/11/2025 - Al Bongalonta
-ee95b51a8fd220dc:29/11/2025
+ee95b51a8fd220dc:29/11/2025 - 
 9efe38b50c17a2aa:29/11/2025
 bd95d32a65053c4b:29/11/2025
-6c4f75d56987e55e:29/11/2025
-75b4476656e16a9f:29/11/2025
-93e42a2ffdf56634:29/11/2025
+6c4f75d56987e55e:29/11/2025 - Erick Cervantes 
+75b4476656e16a9f:29/11/2025 - Paul Sendrix Cahigas
+93e42a2ffdf56634:29/11/2025 - Jong Salvador Bugaoisan
 bd7aa1bcbe109cac:29/11/2025
 640af78bd212c18f:29/11/2025
 b2d07c0b636450ad:29/11/2025
