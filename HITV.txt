@@ -64,3 +64,4 @@ b89db993f95150ca:31/11/2025 - Christopher Velasco
 64bd27e12f846f2b:31/11/2025 - Greg Alvarez
 83f17cc01d1c0223:31/11/2025 - DoSu B EJ
 f781101ca8603ec6:31/11/2025 - Mark Ybañez
+0ccf09093b96217e:31/11/2025 - John Gabriel De Vera
