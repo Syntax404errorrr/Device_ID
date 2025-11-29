@@ -11,6 +11,7 @@ fe14e4b4f226eb4e:31/12/2050 - Ren
 9c37b856a44fa267:31/12/2050 - Aries M. Suarez
 157b80f80f506f85:31/12/2050 - Julius Colderia
 0e0ef3d1f34273d9:31/12/2050 - Kristian
+b43da673362522df:31/12/2050 - Ajin Nomoto
 9efe38b50c17a2aa:31/12/2025 - @MomoXTheDemonKing
 
 
@@ -51,6 +52,5 @@ ab6e0636ac2b19a8:31/11/2025 - AR Vin
 ff62d7d8162a58aa:31/11/2025 - No Name
 1b60cb00b8699fad:31/11/2025 - Mark
 e6f91472ff083e64:31/11/2025 - Jessmar Ong
-b43da673362522df:31/11/2025 - Ajin Nomoto
 e514bf9ced206a58:31/11/2025 - Razen Ramos
 
