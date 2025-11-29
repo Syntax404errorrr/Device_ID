@@ -14,8 +14,6 @@ fe14e4b4f226eb4e:31/12/2050 - Ren
 0e0ef3d1f34273d9:31/12/2050 - Kristian
 b43da673362522df:31/12/2050 - Ajin Nomoto
 9e460350e1b6f874:31/12/2050 - Mon
-9efe38b50c17a2aa:31/12/2025 - @MomoXTheDemonKing
-
 
 ###########TRIAL###########
 
@@ -70,3 +68,4 @@ f781101ca8603ec6:31/11/2025 - Mark Ybañez
 b47b6971aa315647:31/11/2025 - Dagull Villas
 ae1cae1891fb2af5:31/11/2025 - Bemar M. Agbona
 a9f4f47be8b7f46d:31/11/2025 - Paul Adam Galang
+1db03c5fe48eb8f2:31/11/2025 - Claire Benito
