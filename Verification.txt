@@ -1,7 +1,7 @@
 {
   "settings": {
     "admin_url": https://www.facebook.com/profile.php?id=61583059855128",
-    "info_url": "https://youtube.com/@unknownmodsofficial",
+    "info_url": "https://www.facebook.com/share/v/17UyLEnZmi/",
     "info_msg": "How To Get Key",
     "key_validity": "24h"
   },
