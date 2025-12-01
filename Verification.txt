@@ -7,7 +7,7 @@
   },
   "shortener": {
     "base_url": "https://xtglinks.com/api",
-    "api_token": "7d45841688639dd91c8862e223ab079dcf55a19c",
+    "api_token": "221b740ac39e33d22fa3689156d4df223b5d93ea",
     "json_key": "shortenedUrl",
     "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
   },
