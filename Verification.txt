@@ -6,8 +6,8 @@
     "key_validity": "24h"
   },
   "shortener": {
-    "base_url": "https://reshort.com/api",
-    "api_token": "e9fbe491b0408443b99902e303059680209f8fec",
+    "base_url": "https://dl.surf/publish/api",
+    "api_token": "ilp89AEPK7473Cro0RR6UXXnf",
     "json_key": "shortenedUrl",
     "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
   },
