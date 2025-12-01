@@ -1,13 +1,13 @@
 {
   "settings": {
-    "admin_url": https://bit.ly/3Mege9u",
+    "admin_url": https://www.facebook.com/profile.php?id=61583059855128",
     "info_url": "https://youtube.com/@unknownmodsofficial",
     "info_msg": "How To Get Key",
     "key_validity": "24h"
   },
   "shortener": {
-    "base_url": "https://devuploads.com/api/",
-    "api_token": "898536hm4ttgxz12zpgm1",
+    "base_url": "https://xtglinks.com/api",
+    "api_token": "7d45841688639dd91c8862e223ab079dcf55a19c",
     "json_key": "shortenedUrl",
     "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
   },
