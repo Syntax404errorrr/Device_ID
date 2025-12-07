@@ -24,6 +24,7 @@ e6f91472ff083e64:31/12/2050 - Jessmar Ong
 181f71cebc56f52a:31/12/2050 - Jeenary Niño Bering
 86f62c1743fd6d9e:31/12/2050 - Crizel Palomares
 e81aa8631d9914a2:31/12/2050 - Angelo Buising
+8f964deb4a81ed88:31/12/2050 - Ariane
 
 
 ## Free Account
@@ -130,6 +131,5 @@ e00b704f902bb1ca:06/12/2025 - Reniel Cris
 75654c4f9e834505:06/12/2025 - Mac Alto
 daa30729c61e3748:07/12/2025 - Mai Ne
 d4b2ce12fed1e354:07/12/2025 - Manuel Campos
-78280a474ea1ce8f:07/12/2025 - Denz Reyes
-8f964deb4a81ed88:08/12/2025 - Ariane
+78280a474ea1ce8f:07/12/2025 - Denz Palomares
 f2917219c5713a2a:08/12/2025 - Herrick Earl
