@@ -1,12 +1,9 @@
 Admin
 "4ab9e4af13bd0bc364f2fa19271dcff6413798e4497aae9f2dc0e13cfd21e814"
 
-Larrie James Garcia
-"bc9612ac447edfe9e250d2e3e1348694c3d18fac0da5dade8e1956db0bc6f55b"
-
 Jerich Suan
 "4a17203aa6e9390856a98ea0ce9efaad5b18602bb3919be63edbeccaf600eb0c"
 "2aed3e128c3d03d2eb44864f27c233c86bd75eab1d77fc02a1ae2eb8a0c67544"
 
-April Dianne Panlaque
-"58cb4c73cd79f0764cb2bd58f16f024c4bc4533505f327ea7ff363324292dbb7"
+Jeff Magsakay
+"18d2f477f3b7ed45591f61086356fcdc9a0b612a5c6117daa37e8b5f0948fde6"
