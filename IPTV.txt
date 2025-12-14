@@ -19,3 +19,6 @@ Maryjanne
 
 Angelo Buising
 "7f85fe7e53901e314d17b286f44e4c46b58513f52c878d60b58363e19aebc6c4"
+
+Vincent Inno Soledad
+52ec6ee7d55d85c88bd660e701b92469417b1533de371baa30dafa3c3813fd4e
