@@ -1,31 +1,28 @@
 Admin
 "4c8aa64bd90d59cb56aa583e181e48c3a56e9fd5eeefd84003dbca2eb6a04ec2"
 
-Suan Suan
+Suan Suan - ₱300
 "4a17203aa6e9390856a98ea0ce9efaad5b18602bb3919be63edbeccaf600eb0c"
 "2aed3e128c3d03d2eb44864f27c233c86bd75eab1d77fc02a1ae2eb8a0c67544"
 
 Larie James Garcia
 "d62d2e878da1e580eae89c43b48e1beecb7779b2baa4790e0135d51de58d4a1f"
 
-Maricris
+Maricris - ₱100
 "95f0a526f923b461e50f6d4dbf4505049e21c441b2e33c7c823712fbcac5a675"
 
-Oliver Conde
+Oliver Conde - ₱40
 "e903731176006f73cc8eb5569ad4bd4d958531ad7cde15c0367f943072c2fc84"
 
-Maryjanne
-"25e758148cabcc2f33e91e495e3adefae8ae48bee8825132d2d6f9c14f4538b7"
-
-Angelo Buising
+Angelo Buising - ₱100
 "7f85fe7e53901e314d17b286f44e4c46b58513f52c878d60b58363e19aebc6c4"
 "59e00f26e99cfc53cc7b569b4234002857c4cb4086bd75247a9ea790f43d1b9c"
 
-Vincent Inno Soledad
+Vincent Inno Soledad - ₱100
 "52ec6ee7d55d85c88bd660e701b92469417b1533de371baa30dafa3c3813fd4e"
 
 Rob Alejandro - ₱50
 "f5d25d3d2fe89c92ba41c74cd1b8c27fd4fff108bf6e9f676e4ae81041bad770"
 
-Damzuy Punsalan
+Damzuy Punsalan - ₱100
 "a509ad2f4f1c0f01816a2cc1f7f30d50bc3c5d212b3ec32232e780cac1a8a59f"
