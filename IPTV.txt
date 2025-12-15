@@ -31,7 +31,7 @@ Rob Alejandro - ₱50
 Damzuy Punsalan - ₱100
 "a509ad2f4f1c0f01816a2cc1f7f30d50bc3c5d212b3ec32232e780cac1a8a59f"
 
-Cj Landicho
+Cj Landicho - ₱160
 "0b96cc47893cfe1d32705a9d3e5ed50348af391ecdcbbd36c3f78c51f95e8815"
 
 12-15-2025
@@ -42,3 +42,6 @@ Marryjane - ₱200
 
 Djbagz - ₱100
 "1bf14f7739c65955485d754406d6d9cc4156731cb3e79e3764ff35e4dc461a96"
+
+Din Shenz
+"3c52dfc40101699c4aa1daef4df43ae31deb77b0a479d516568a237f5457a3cd"
