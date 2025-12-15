@@ -73,3 +73,6 @@ John Andrew Manzano - Pending
 
 Arvz Asinas - ₱100
 "8e55ca9f124c2f9d7ef566fd634dcfc80e0cf946d08a23394b72cfcb74bcb447"
+
+Aaron Asistin - ₱100
+"d3da48ce1f64f8d9099c5f153f431baa9d11519e9c300d7b9316b542c2100cf7"
