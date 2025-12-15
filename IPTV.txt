@@ -36,7 +36,7 @@ Vincent Inno Soledad - ₱100
 "52ec6ee7d55d85c88bd660e701b92469417b1533de371baa30dafa3c3813fd4e"
 
 Rob Alejandro - ₱50
-"f5d25d3d2fe89c92ba41c74cd1b8c27fd4fff108bf6e9f676e4ae81041bad770"
+""
 
 Damzuy Punsalan - ₱100
 "a509ad2f4f1c0f01816a2cc1f7f30d50bc3c5d212b3ec32232e780cac1a8a59f"
