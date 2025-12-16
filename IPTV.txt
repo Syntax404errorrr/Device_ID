@@ -20,7 +20,7 @@ Jerich Suan - ₱300
 "2aed3e128c3d03d2eb44864f27c233c86bd75eab1d77fc02a1ae2eb8a0c67544"
 
 Joseph Candido - ₱100
-"de59abb8b68070a310d269a0b6baff2e25fad7bb65d0d1195e6c85953ea67f67"
+""
 
 Maricris - ₱100
 "bd86ab9ea84b1dce554b9dbaa82b07ed6e9e92e10a729d8b1999f2139221885c"
@@ -70,7 +70,7 @@ Japhet Almonte - ₱100
 "cf375f6c4a2de7d07b4d00b69476a4cae26cc048acd9e698f8e24d049d4e2910"
 
 John Andrew Manzano - Pending
-"afa870a99aec89b802dca1b166ebeac811aeb1a1fbef4c28280c56e31dd31029"
+""
 
 Arvz Asinas - ₱100
 "8e55ca9f124c2f9d7ef566fd634dcfc80e0cf946d08a23394b72cfcb74bcb447"
