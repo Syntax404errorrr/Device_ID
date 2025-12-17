@@ -99,4 +99,6 @@ John Andrew Manzano - ₱100
 Raniel Gregorio - Pending 
 "9421999bfb1ae0e3a44e651c198beb92baa24de1e31e736d23c88df21b7d586a"
 
+Howell Tan
+"cfe183e6a47087a5f3acc884cc7fe97ccbd88aaca700eb78838f62b898bdc1db"
 
