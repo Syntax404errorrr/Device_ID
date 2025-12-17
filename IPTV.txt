@@ -70,7 +70,7 @@ Japhet Almonte - ₱100
 "cf375f6c4a2de7d07b4d00b69476a4cae26cc048acd9e698f8e24d049d4e2910"
 
 John Andrew Manzano - Pending
-""
+"afa870a99aec89b802dca1b166ebeac811aeb1a1fbef4c28280c56e31dd31029"
 
 Arvz Asinas - ₱100
 "8e55ca9f124c2f9d7ef566fd634dcfc80e0cf946d08a23394b72cfcb74bcb447"
