@@ -69,9 +69,6 @@ Waren Joven - ₱100
 Japhet Almonte - ₱100
 "cf375f6c4a2de7d07b4d00b69476a4cae26cc048acd9e698f8e24d049d4e2910"
 
-John Andrew Manzano - Pending
-"afa870a99aec89b802dca1b166ebeac811aeb1a1fbef4c28280c56e31dd31029"
-
 Arvz Asinas - ₱100
 "8e55ca9f124c2f9d7ef566fd634dcfc80e0cf946d08a23394b72cfcb74bcb447"
 
@@ -91,5 +88,11 @@ Ian James - ₱100
 "a2239679904ace5ecfe2ba85d39aa688c8216f2fccbf4b67e6303dcccc9db4b6"
 "f4b61cc02dcb2fbdccb22a96259cb05463ca1949ed28992e4107239bdb5b72b2"
 
+12-17-2025
 Jessmar Ong - ₱100 (2 months)
 "e0ed0499b068960c8cfa9d02cc02214b42a33956f64c9ae1013cd74efba1294d"
+
+John Andrew Manzano - ₱100
+"afa870a99aec89b802dca1b166ebeac811aeb1a1fbef4c28280c56e31dd31029"
+
+
