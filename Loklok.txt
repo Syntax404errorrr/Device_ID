@@ -22,7 +22,8 @@ fe93c67cfa361ca6:31/12/2050 - Marry Jane (TV)
 564b4c39ee284cb4:31/12/2050 - Maruu Kun
 67ad3ece9843c6b2:31/12/2050 - John Michael
 f9683adf4300d90d:31/12/2050 - Malanguit Brandy
-4916c8a825d994bc:31/12/2050- Kim Abegail
+4916c8a825d994bc:31/12/2050 - Kim Abegail
+f5c69c2627e77b21:31/12/2050 - Bryan Versoza
 
 ##Free
 
@@ -46,7 +47,6 @@ c5cc0992b2f33771:09/12/2025 - JR Colocado
 b3df2501c4ab3b66:09/12/2025 - Prince Yhiel Dela Cruz
 eb6db3d6e1fa06ca:09/12/2025 - Clark Aidan
 e3ba4616227d0011:09/12/2025 - Cid Kagenou
-f6e6e41af605e6d6:10/12/2025 - Bryan Versoza
 20d6a880e1fb6925:10/12/2025 - Daniel
 9debbcd390ba5fe7:10/12/2025 - Eevyaj Yusi
 a391f48221f32d80:10/12/2025 - Cortez Espera Bryant
