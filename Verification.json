@@ -21,16 +21,16 @@
     "input_hint": "Paste Key Here"
   },
   "theme": {
-    "accent_color": "#FF6200EE",
-    "text_color": "#FFFFFFFF",
-    "btn_stroke_color": "#FF9D46FF"
-  },
+  "accent_color": "#FF8A8A8A",
+  "text_color": "#FFFFFFFF",
+  "btn_stroke_color": "#FFB0B0B0"
+  }
   "time_settings": {
     "api_url": "http://worldtimeapi.org/api/timezone/",
     "timezone": "Asia/Kolkata"
   },
   "update_system": {
-    "force_update_date": "01/01/2026",
+    "force_update_date": "12/21/2025",
     "update_url": "https://t.me/+E4fcmVQZ4rdmNzQ1",
     "update_title": "Update Required",
     "update_msg": "A new version is available. Please update."
