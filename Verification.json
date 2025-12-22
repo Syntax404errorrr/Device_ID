@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "admin_url": "https://www.facebook.com/profile.php?id=61583059855128",
+    "info_url": "https://www.facebook.com/share/v/17uHpomULj/",
+    "info_msg": "How To Get Key",
+    "key_validity": "24h"
+  },
+  "shortener": {
+    "base_url": "https://reshort.com/api",
+    "api_token": "e9fbe491b0408443b99902e303059680209f8fec",
+    "json_key": "shortenedUrl",
+    "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
+  },
+  "ui_text": {
+    "dialog_title": "UnknownMods🇵🇭",
+    "dialog_subtitle": "Device Verification Required",
+    "btn_get_key": "Get Key",
+    "btn_login": "Login / Verify",
+    "btn_admin": "Admin",
+    "btn_update": "Update Now",
+    "input_hint": "Paste Key Here"
+  },
+  "theme": {
+    "accent_color": "#FF6200EE",
+    "text_color": "#FFFFFFFF",
+    "btn_stroke_color": "#FF9D46FF"
+  },
+  "time_settings": {
+    "api_url": "http://worldtimeapi.org/api/timezone/",
+    "timezone": "Asia/Kolkata"
+  },
+  "update_system": {
+    "force_update_date": "01/01/2026",
+    "update_url": "https://t.me/+E4fcmVQZ4rdmNzQ1",
+    "update_title": "Update Required",
+    "update_msg": "A new version is available. Please update."
+  }
+}
