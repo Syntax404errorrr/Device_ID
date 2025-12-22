@@ -2,8 +2,8 @@
   "settings": {
     "admin_url": "https://www.facebook.com/profile.php?id=61583059855128",
     "info_url": "https://www.facebook.com/share/v/17uHpomULj/",
-    "info_msg": "How To Get Key",
-    "key_validity": "24h"
+    "info_msg": "Modder",
+    "key_validity": "5h"
   },
   "shortener": {
     "base_url": "https://reshort.com/api",
@@ -14,11 +14,11 @@
   "ui_text": {
     "dialog_title": "UnknownMods🇵🇭",
     "dialog_subtitle": "Device Verification Required",
-    "btn_get_key": "Get Key",
-    "btn_login": "Login / Verify",
-    "btn_admin": "Admin",
+    "btn_get_key": "Get Code",
+    "btn_login": "Login",
+    "btn_admin": "Tutorial",
     "btn_update": "Update Now",
-    "input_hint": "Paste Key Here"
+    "input_hint": "Paste Code Here"
   },
   "theme": {
   "accent_color": "#FF8A8A8A",
