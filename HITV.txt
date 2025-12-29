@@ -34,6 +34,7 @@ ff64bc11c518a769:31/12/2050 - Kliox Mensi
 72d670046f34216f:31/12/2050 - MJ Zhey
 10353dcf203b26b1:31/12/2050 - Junlimz
 92e60ad596aaba80:31/12/2050 - Lyndon Cortejos
+307cdec8fd1785e5:31/12/2050 - Jerico Bolaños
 
 
 ## Free Account
@@ -189,7 +190,6 @@ d24813b600d3c56b:28/12/2025 - Ron Libiran
 0a8b0022e81aebf1:28/12/2025 - Lance Joseph
 0ba12f66e3e59900:28/12/2025 - Yelle
 a01d7f0a52d24f67:29/12/2025 - JohnPaul Reformado
-307cdec8fd1785e5:30/12/2025 - Jerico Bolaños
 4b2b9cfc301a5dd3:30/12/2025 - Patrick Joesen
 98befaecd76497f1:30/12/2025 - Jane Ann
 3611e4a07aac5f95:31/12/2025 - Nyzelle Kye
