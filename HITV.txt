@@ -36,6 +36,7 @@ ff64bc11c518a769:31/12/2050 - Kliox Mensi
 92e60ad596aaba80:31/12/2050 - Lyndon Cortejos
 307cdec8fd1785e5:31/12/2050 - Jerico Bolaños
 798fdc38bfc5eba7:31/12/2050 - Jake Agbona
+2b88a8433dcf508f:31/12/2050 - Acuro Kian
 
 ## Free Account
 
@@ -201,7 +202,6 @@ c78f6fb777d0e0e7:06/01/2026 - Jayson S.
 4cebbafca954b0e4:06/01/2026 - Jhey Em
 09c8a8f399b813d3:06/01/2026 - Rainier Ferrer
 acb790579ca20130:06/01/2026 - Nicolai Jake
-2b88a8433dcf508f:06/01/2026 - Acuro Kian
 0be845776cebc9bb:06/01/2026 - Daniel G.
 
 
