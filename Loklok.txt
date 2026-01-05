@@ -53,6 +53,7 @@ bd7dea644a3c22fa:31/12/2050 - Raniel John
 d38b83e8cf3435a7:31/12/2050 - Jomari Layuso
 bbee06f3e7b5c06a:31/12/2050 - Chi
 2e2ced7455efc9ed:31/12/2050 - John Dave
+f0d676333b2ae2e3:31/12/2050 - Vincent Cantilla
 
 ##Free
 
@@ -177,7 +178,6 @@ f5d763a221effa29:06/01/2026 - Lj Balais
 f0c4696b6d0de938:06/01/2026 - Fran Cis
 b562af085aaff9bf:06/01/2026 - Rackz
 093288dc4d9995af:06/01/2026 - Dave Doria
-f0d676333b2ae2e3:06/01/2026 - Vincent Cantilla
 301bfe75e517902c:06/01/2026 - Edison Obena
 c7de0fed03ea7fe4:06/01/2026 - Jhay Ar Zamora
 2ded8225af84ddaf:06/01/2026 - Axel Khent
