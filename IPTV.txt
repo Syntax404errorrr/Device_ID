@@ -36,6 +36,11 @@ Ivan Ensomo - ₱100
 Arvz Asinas - ₱100
 "d430412338e8a278e0275b17ca3eb153f889c904221d8378af38cd08d4b43d83"
 
+02-19-2026
+
+Vincent Inno Soledad - ₱100
+"3f94dc71e6508df61a56fe0ee678b2248050d6a9008aed440dba1abc7b87c395"
+
 01-15-2026
 
 John Jeffrey - ₱100
@@ -43,9 +48,6 @@ John Jeffrey - ₱100
 
 
 01-18-2026
-
-Vincent Inno Soledad - ₱100
-"3f94dc71e6508df61a56fe0ee678b2248050d6a9008aed440dba1abc7b87c39 5"
 
 Japhet Almonte - ₱100
 "8677f2ec7393220514b03ac1003ed1061444b03973bbabf51e94e2a68e4338e e"
