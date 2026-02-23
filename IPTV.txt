@@ -46,8 +46,9 @@ Arvz Asinas - ₱100
 Vincent Inno Soledad - ₱100
 "3f94dc71e6508df61a56fe0ee678b2248050d6a9008aed440dba1abc7b87c395"
 
-John Andrew Manzano - ₱100
+John Andrew Manzano - ₱100 + 50
 "d8cad346d545ed8b1fd15bd2940bfbeaa935139de45e192fdc5b44c33a297a84"
+"e86c333c23340e924def6acadb333444a7095bff3f4edfb528b47831f718b13ad"
 
 April Dianne Panlaqui - 100
 
